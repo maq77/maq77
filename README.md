@@ -2,7 +2,7 @@
 <h3 align="center">A Junior developer from [EGYPT 🇪🇬]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maq77&label=Profile%20views&color=0e75b6&style=flat" alt="maq77" /> </p>
-<img allign="right" alt="Coding" widgth="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img allign="right" alt="Coding" widgth="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maq77" alt="maq77" /></a> </p>
 
 - 🔭 I’m currently working on **Credit Card Checker Stripe, Braintree**
