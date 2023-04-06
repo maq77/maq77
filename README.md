@@ -1,4 +1,4 @@
-[![MasterHead](https://digitaledgetech.in/images/New_Banner_02.gif)
+[![MasterHead](https://digitaledgetech.in/images/New_Banner_02.gif)]
 <h1 align="center">Hi 👋, I'm Mohamed Helal</h1>
 <h3 align="center">A Junior developer from [EGYPT 🇪🇬]</h3>
 
